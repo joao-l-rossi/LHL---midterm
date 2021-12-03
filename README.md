@@ -1,4 +1,5 @@
-# LHL---midterm
+# LHL-Predicting-Flight-Delays
+
 Midterm LHL project Predicting Flight Delays
 Colaborators Lazar Adamovic, Chunshan Feng, and Joao Rossi
 
