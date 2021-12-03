@@ -2,7 +2,7 @@
 
 Midterm LHL project Predicting Flight Delays
 
-Collaborators Lazar Adamovic, Chunshan Feng, and Joao Rossi
+Collaborators: Lazar Adamovic, Chunshan Feng, and Joao Rossi
 
 The goal is to predict flight delays in US for the first week of January 2020.
 We have used flight data from LHL database and weather data downloaded from kaggle:
